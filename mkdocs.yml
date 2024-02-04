@@ -2,7 +2,6 @@ site_name: GoTK7 Docs
 repo_url: https://github.com/woorzz/management-tactical-tracking-doc.git
 docs_dir: "./docs/"
 
-
 nav:
   - Home: index.md
   - Accès à la plateforme: acces.md
@@ -11,7 +10,6 @@ nav:
   - Déconnexion: deconnexion.md
 
 theme:
-
   name: material
   favicon: ../images/favicon.png
   palette:
@@ -28,20 +26,15 @@ theme:
       primary: red
       accent: lime
 
-
-markdown_extensions:
-  - attr_list
-  - md_in_html
-
 plugins:
   - glightbox
 
-
 markdown_extensions:
+  - admonition
+  - md_in_html
   - attr_list
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-      
