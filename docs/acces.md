@@ -25,7 +25,7 @@ Avant de soumettre le formulaire, **veuillez vérifier** quelques points :
 
 ## **Connexion**
 
-![Formulaire de connexion](/images/login.png)
+![Formulaire de connexion](./images/login.png)
 
 **Complétez le formulaire** de connexion en fournissant :
 

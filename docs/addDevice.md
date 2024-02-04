@@ -1,6 +1,6 @@
 ## **Ajout manuel**
 
-![Ajouter un traceur](/images/add_device.png)
+![Ajouter un traceur](./images/add_device.png)
 
 Pour ajouter manuellement un traceur et le configurer numériquement après sa configuration physique, suivez ces étapes :
 
@@ -25,7 +25,7 @@ Si vous souhaitez ajouter plusieurs traceurs simultanément, vous pouvez le fair
 - Cliquez sur le bouton Template : :material-download: pour télécharger un modèle **Excel**.
 - Ouvrez le fichier Excel téléchargé et saisissez les informations correspondantes du nouveau traceur selon le modèle suivant :
 
-![template_excel](/images/template_excel.png)
+![template_excel](./images/template_excel.png)
 
 !!! warning "Attention"
 

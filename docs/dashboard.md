@@ -4,7 +4,7 @@ Le tableau de bord offre une vue exhaustive de toutes les informations liées au
 
 Les filtres, situés à côté de la barre de recherche, vous permettent de restreindre les données en fonction de la dernière communication, du type du tracker, et du statut. Cette fonctionnalité offre une flexibilité supplémentaire pour répondre à vos exigences spécifiques.
 
-![Formulaire d'inscription](/images/filter.png)
+![Formulaire d'inscription](./images/filter.png)
 
 <div style="height: 5px;"></div>
 
@@ -21,7 +21,7 @@ Un système de tri est à votre disposition pour organiser les données selon vo
 
 Il vous suffit de **cliquer** sur le titre correspondant pour classer les informations à votre convenance.
 
-![Exemple de tri](/images/trie.png)
+![Exemple de tri](./images/trie.png)
 
 !!! tip "Tips"
 
@@ -35,7 +35,7 @@ Sur le côté droit du tableau de bord, trois colonnes présentent des icônes c
 
 ### **Informations Clients**
 
-Cliquez sur l'icône `supervised_user_circle` ![Exemple de infos clients](/images/logo_cust_infos.png) pour consulter les informations clients détaillées :
+Cliquez sur l'icône `supervised_user_circle` ![Exemple de infos clients](./images/logo_cust_infos.png) pour consulter les informations clients détaillées :
 
 - Nom
 - Email
@@ -55,15 +55,15 @@ Cliquez sur l'icône `supervised_user_circle` ![Exemple de infos clients](/image
 
 ### **Localisation du Traceur**
 
-Cliquez sur l'icône `map` ![Map](/images/map.svg) pour accéder à la page de localisation du traceur.
+Cliquez sur l'icône `map` ![Map](./images/map.svg) pour accéder à la page de localisation du traceur.
 
-![Map](/images/map.png)
+![Map](./images/map.png)
 
 <div style="height: 5px;"></div>
 
 ### **Modification sur le Traceur**
 
-Cliquez sur l'icône `infos` ![infos_client](/images/infos.svg) pour accéder à la page de modification des informations du traceur.
+Cliquez sur l'icône `infos` ![infos_client](./images/infos.svg) pour accéder à la page de modification des informations du traceur.
 
 Sur cette pop-up, suivez simplement ces étapes :
 
