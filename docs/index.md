@@ -1,68 +1,16 @@
-# Homepage
+# **Documentation GoTEK7**
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bienvenue sur la documentation de la plateforme de gestion de suivi de balises GPS, de GoTEK7.
 
-## Code Annotation Examples
+## **Comment utiliser cette documentation**
 
-### Codeblocks
+Cette documentation est conçue pour vous aider à comprendre et à utiliser toutes les fonctionnalités offertes par la plateform de GoTEK7. Voici quelques sections clés pour vous orienter :
 
-Some `code` goes here.
+- [Accès à la plateforme](acces.md): Découvrez comment accéder à la plateforme de GoTEK7.
+- [Le Dashboard](dashboard.md): Explorez les fonctionnalités du tableau de bord.
+- [L'ajout d'un traceur](addDevice.md): Apprenez comment ajouter un nouveau traceur sur la plateforme.
+- [Déconnexion](deconnexion.md): Informations sur la déconnexion de votre compte.
 
-### Plain codeblock
+## **Contribuer à la documentation**
 
-A plain codeblock:
-
-```
-Some code here
-def myfunction()
-// some comment
-```
-
-#### Code for a specific language
-
-Some more code with the `py` at the start:
-
-``` py
-import tensorflow as tf
-def whatever()
-```
-
-#### With a title
-
-``` py title="bubble_sort.py"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
-
-#### With line numbers
-
-``` py linenums="1"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
-
-#### Highlighting lines
-
-``` py hl_lines="2 3"
-def bubble_sort(items):
-    for i in range(len(items)):
-        for j in range(len(items) - 1 - i):
-            if items[j] > items[j + 1]:
-                items[j], items[j + 1] = items[j + 1], items[j]
-```
-
-## Icons and Emojs
-
-:smile: 
-
-:fontawesome-regular-face-laugh-wink:
-
-:fontawesome-brands-twitter:{ .twitter }
-
-:octicons-heart-fill-24:{ .heart }
+Si vous avez des suggestions d'amélioration, des questions ou des retours, n'hésitez pas à contribuer à cette documentation en visitant notre [répertoire GitHub](https://github.com/woorzz/management-tactical-tracking-doc).
