@@ -35,6 +35,7 @@ markdown_extensions:
 
 plugins:
   - glightbox
+  - admonition
 
 
 markdown_extensions:

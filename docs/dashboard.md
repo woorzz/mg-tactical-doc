@@ -57,9 +57,7 @@ Cliquez sur l'icône `supervised_user_circle` ![Exemple de infos clients](/image
 
 Cliquez sur l'icône `map` ![Map](/images/map.svg) pour accéder à la page de localisation du traceur.
 
-<p align="center">
-  <img src="/images/map.png" alt="Map image" width="400">
-</p>
+![Map](/images/map.png)
 
 <div style="height: 5px;"></div>
 
