@@ -35,12 +35,10 @@ markdown_extensions:
 
 plugins:
   - glightbox
-  - admonition
 
 
 markdown_extensions:
   - attr_list
-  - admonition
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.emoji:
