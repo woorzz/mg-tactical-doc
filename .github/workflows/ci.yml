@@ -20,5 +20,6 @@ jobs:
           path: .cache
       - run: pip install mkdocs-material
       - run: pip install mkdocs-glightbox
+      - run: pip install mkdocs-admonition
       - run: pip install pymdown-extensions
       - run: mkdocs gh-deploy --force
