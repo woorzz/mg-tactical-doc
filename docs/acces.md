@@ -10,8 +10,6 @@ Veuillez **compléter le formulaire d'inscription** en fournissant les informati
 - Votre adresse e-mail
 - Votre mot de passe sécurisé.
 
-<div style="height: 15px;"></div>
-
 Avant de soumettre le formulaire, **veuillez vérifier** quelques points :
 
 - Assurez-vous que votre _adresse e-mail_ soit valide, car elle sera utilisée pour la réception des rapports journaliers des balises GPS et pour la récupération de votre compte si nécessaire.
@@ -20,8 +18,6 @@ Avant de soumettre le formulaire, **veuillez vérifier** quelques points :
 !!! warning "Attention"
 
     Pour que l'inscription soit validée, votre adresse e-mail doit être professionnelle et celle de l'entreprise.
-
-<div style="height: 15px;"></div>
 
 ## **Connexion**
 
@@ -35,8 +31,6 @@ Avant de soumettre le formulaire, **veuillez vérifier** quelques points :
 !!! note "Note"
 
     Vous avez la possibilité de cocher la case "**Se souvenir de moi**". Cela pré-remplira automatiquement le champ "nom d'utilisateur" lors de vos prochaines visites sur la plateforme.
-
-<div style="height: 5px;"></div>
 
 En cas d'**erreurs** :
 

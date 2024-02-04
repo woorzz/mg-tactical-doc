@@ -16,8 +16,6 @@ Vérifiez sur la page **Preview** juste à droite si les informations correspond
 
     Le nouveau traceur a été ajouté avec les paramètres par défaut.
 
-<div style="height: 5px;"></div>
-
 ## **Ajout grâce à des fichiers**
 
 Si vous souhaitez ajouter plusieurs traceurs simultanément, vous pouvez le faire à l'aide d'un fichier **CSV**.
@@ -30,8 +28,6 @@ Si vous souhaitez ajouter plusieurs traceurs simultanément, vous pouvez le fair
 !!! warning "Attention"
 
     Assurez-vous de ne pas modifier l'ordre des colonnes du fichier Excel, car la programmation de cette fonction est conçue pour respecter l'ordre exact des colonnes du fichier modèle.
-
-<div style="height: 5px;"></div>
 
 - Sur la page de la plateforme web, cliquez sur **"Choisir un fichier"**, puis sélectionnez votre fichier : :material-attachment:.
 - Les informations apparaissent dans la prévisualisation à droite sous forme de tableau. Vous pouvez les consulter et, si elles sont correctes, cliquez sur **Valider** pour ajouter les traceurs.

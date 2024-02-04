@@ -6,7 +6,6 @@ Les filtres, situés à côté de la barre de recherche, vous permettent de rest
 
 ![Formulaire d'inscription](./images/filter.png)
 
-<div style="height: 5px;"></div>
 
 ## **Tri**
 
@@ -25,9 +24,8 @@ Il vous suffit de **cliquer** sur le titre correspondant pour classer les inform
 
 !!! tip "Tips"
 
-    Vous avez la possibilité de cumuler les deux options proposées par la plateforme : le filtre et le trie. Vous pouvez par exemple trier par ordre croissant le voltage des modèles GT7 uniquement.
+    Vous avez la possibilité de cumuler les deux options proposées par la plateforme : le filtre et le tri. Vous pouvez par exemple trier par ordre croissant le voltage des modèles GT7 uniquement.
 
-<div style="height: 5px;"></div>
 
 ## **Boutons Cliquables**
 
@@ -51,7 +49,6 @@ Cliquez sur l'icône `supervised_user_circle` ![Exemple de infos clients](./imag
 
     Sur cette pop-up ci, vous avez la possibilité de modifier ou d'ajouter certaines informations du client.
 
-<div style="height: 5px;"></div>
 
 ### **Localisation du Traceur**
 
@@ -59,7 +56,6 @@ Cliquez sur l'icône `map` ![Map](./images/map.svg) pour accéder à la page de 
 
 ![Map](./images/map.png)
 
-<div style="height: 5px;"></div>
 
 ### **Modification sur le Traceur**
 
@@ -74,7 +70,5 @@ Sur cette pop-up, suivez simplement ces étapes :
 !!! question "Nouveau paramétrage"
 
     Si vous souhaitez ajouter de nouveaux paramètres, veuillez en informer l'équipe informatique qui se chargera de les intégrer.
-
-<div style="height: 5px;"></div>
 
 _Note au professeur : je ne dispose plus de traces ou d'images concernant cette partie._
