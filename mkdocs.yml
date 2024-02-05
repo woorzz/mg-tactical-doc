@@ -27,7 +27,14 @@ theme:
       accent: lime
 
 plugins:
+  - search
+  - pdf-export
   - glightbox
+  - with-pdf:
+      cover_title: "GoTEK7 Plateforme"
+      cover_subtitle: "Documentation de la plateforme de gestion de balises GPS"
+      author: "Marine LANGREZ"
+      copyright: "2023"
 
 markdown_extensions:
   - admonition
