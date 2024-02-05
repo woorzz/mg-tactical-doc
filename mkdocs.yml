@@ -1,5 +1,5 @@
 site_name: GoTK7 Docs
-repo_url: https://github.com/woorzz/management-tactical-tracking-doc.git
+repo_url: https://github.com/woorzz/mg-tactical-doc.git
 docs_dir: "./docs/"
 
 nav:
